@@ -1,5 +1,5 @@
 # capstone1-group55
-Group 55's Capstone Project
+Side Hustle Group 55's Capstone Project
 
 We are mostly beginners in the group so we had a challenging time doing this project. The majority of the challenges we encountered were in responsiveness and overlapping text with a background like the bg-wavy thing.
 There are currently 13 members in the telegram group created, including me.
