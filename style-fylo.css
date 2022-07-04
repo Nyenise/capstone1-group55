@@ -22,6 +22,10 @@ ul{text-align:end;} /*end aligned the links*/
     text-align: justify;
     
 }
+.navlinks
+{
+    margin-top: -55px;
+}
 #link1,#link2,#link3
 {
     color: hsl(0, 0%, 100%);
